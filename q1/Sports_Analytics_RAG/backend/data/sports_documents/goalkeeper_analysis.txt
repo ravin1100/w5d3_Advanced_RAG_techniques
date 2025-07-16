@@ -1,0 +1,76 @@
+Premier League Goalkeeper Analysis 2022-23 Season
+
+Goalkeeper: Nick Pope (Newcastle United)
+High-Pressure Situations:
+- Save % in Big Chances: 73.4%
+- Penalty Save Rate: 33.3% (2 saved from 6)
+- 1v1 Save Rate: 68.9%
+- Last 15 Minutes Save %: 79.2%
+Advanced Metrics:
+- Post-Shot Expected Goals Prevented: +8.7
+- Cross Collection Rate: 8.9%
+- Average Defensive Action Distance: 16.4m
+Performance in Top-6 Matches:
+- Save Percentage: 75.8%
+- Clean Sheets: 5 from 12 matches
+- Goals Conceded per Game: 1.08
+
+Goalkeeper: Alisson (Liverpool)
+High-Pressure Situations:
+- Save % in Big Chances: 71.2%
+- Penalty Save Rate: 25% (1 saved from 4)
+- 1v1 Save Rate: 72.3%
+- Last 15 Minutes Save %: 76.5%
+Advanced Metrics:
+- Post-Shot Expected Goals Prevented: +6.4
+- Cross Collection Rate: 9.2%
+- Average Defensive Action Distance: 18.2m
+Performance in Top-6 Matches:
+- Save Percentage: 72.1%
+- Clean Sheets: 4 from 10 matches
+- Goals Conceded per Game: 1.30
+
+Goalkeeper: Ederson (Manchester City)
+High-Pressure Situations:
+- Save % in Big Chances: 65.8%
+- Penalty Save Rate: 20% (1 saved from 5)
+- 1v1 Save Rate: 64.5%
+- Last 15 Minutes Save %: 73.4%
+Advanced Metrics:
+- Post-Shot Expected Goals Prevented: +4.3
+- Cross Collection Rate: 7.8%
+- Average Defensive Action Distance: 19.1m
+Performance in Top-6 Matches:
+- Save Percentage: 69.4%
+- Clean Sheets: 6 from 10 matches
+- Goals Conceded per Game: 0.90
+
+Goalkeeper: David de Gea (Manchester United)
+High-Pressure Situations:
+- Save % in Big Chances: 68.9%
+- Penalty Save Rate: 16.7% (1 saved from 6)
+- 1v1 Save Rate: 65.7%
+- Last 15 Minutes Save %: 74.8%
+Advanced Metrics:
+- Post-Shot Expected Goals Prevented: +3.8
+- Cross Collection Rate: 6.4%
+- Average Defensive Action Distance: 13.8m
+Performance in Top-6 Matches:
+- Save Percentage: 70.2%
+- Clean Sheets: 4 from 10 matches
+- Goals Conceded per Game: 1.20
+
+Goalkeeper: Aaron Ramsdale (Arsenal)
+High-Pressure Situations:
+- Save % in Big Chances: 64.3%
+- Penalty Save Rate: 0% (0 saved from 3)
+- 1v1 Save Rate: 63.2%
+- Last 15 Minutes Save %: 71.5%
+Advanced Metrics:
+- Post-Shot Expected Goals Prevented: +2.1
+- Cross Collection Rate: 7.2%
+- Average Defensive Action Distance: 15.6m
+Performance in Top-6 Matches:
+- Save Percentage: 67.8%
+- Clean Sheets: 3 from 10 matches
+- Goals Conceded per Game: 1.40 

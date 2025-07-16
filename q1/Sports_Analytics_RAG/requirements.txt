@@ -1,0 +1,21 @@
+# Backend dependencies
+fastapi
+uvicorn
+pydantic
+python-dotenv
+langchain
+langchain-community
+chromadb
+sentence-transformers
+huggingface-hub
+
+# Frontend dependencies
+streamlit
+plotly
+requests
+
+# Common dependencies
+python-multipart
+typing-extensions
+numpy
+pandas

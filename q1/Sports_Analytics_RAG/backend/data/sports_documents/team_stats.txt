@@ -1,0 +1,71 @@
+Premier League Team Statistics 2022-23 Season
+
+Team: Manchester City
+League Position: 1st
+Defense Statistics:
+- Goals Conceded: 33
+- Clean Sheets: 21
+- Tackles per Game: 14.2
+- Interceptions per Game: 8.7
+- Successful Pressure %: 32.1%
+Goalkeeper: Ederson
+- Save Percentage: 71.4%
+- Clean Sheets: 16
+- Saves per Game: 2.1
+- Goals Prevented (vs xG): +4.3
+
+Team: Arsenal
+League Position: 2nd
+Defense Statistics:
+- Goals Conceded: 43
+- Clean Sheets: 14
+- Tackles per Game: 16.8
+- Interceptions per Game: 9.2
+- Successful Pressure %: 29.8%
+Goalkeeper: Aaron Ramsdale
+- Save Percentage: 68.9%
+- Clean Sheets: 14
+- Saves per Game: 2.8
+- Goals Prevented (vs xG): +2.1
+
+Team: Newcastle United
+League Position: 4th
+Defense Statistics:
+- Goals Conceded: 33
+- Clean Sheets: 17
+- Tackles per Game: 18.4
+- Interceptions per Game: 10.1
+- Successful Pressure %: 31.5%
+Goalkeeper: Nick Pope
+- Save Percentage: 77.2%
+- Clean Sheets: 17
+- Saves per Game: 3.2
+- Goals Prevented (vs xG): +8.7
+
+Team: Liverpool
+League Position: 5th
+Defense Statistics:
+- Goals Conceded: 47
+- Clean Sheets: 14
+- Tackles per Game: 15.9
+- Interceptions per Game: 8.9
+- Successful Pressure %: 30.2%
+Goalkeeper: Alisson
+- Save Percentage: 73.8%
+- Clean Sheets: 14
+- Saves per Game: 2.9
+- Goals Prevented (vs xG): +6.4
+
+Team: Manchester United
+League Position: 3rd
+Defense Statistics:
+- Goals Conceded: 43
+- Clean Sheets: 17
+- Tackles per Game: 16.4
+- Interceptions per Game: 9.6
+- Successful Pressure %: 28.9%
+Goalkeeper: David de Gea
+- Save Percentage: 72.1%
+- Clean Sheets: 17
+- Saves per Game: 3.0
+- Goals Prevented (vs xG): +3.8 

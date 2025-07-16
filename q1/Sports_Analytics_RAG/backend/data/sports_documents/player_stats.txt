@@ -1,0 +1,71 @@
+Premier League Player Statistics 2022-23 Season
+
+Player: Erling Haaland (Manchester City)
+Position: Striker
+Performance Metrics:
+- Goals: 36
+- Expected Goals (xG): 32.5
+- Goals per 90: 1.15
+- Shot Conversion Rate: 28.4%
+- Shots on Target: 71
+Previous Season (Dortmund 2021-22):
+- Goals: 22
+- Games Played: 24
+- Goals per 90: 1.04
+
+Player: Harry Kane (Tottenham)
+Position: Striker
+Performance Metrics:
+- Goals: 30
+- Expected Goals (xG): 25.8
+- Goals per 90: 0.87
+- Shot Conversion Rate: 22.1%
+- Shots on Target: 62
+Previous Season (2021-22):
+- Goals: 17
+- Games Played: 37
+- Goals per 90: 0.49
+
+Player: Mohamed Salah (Liverpool)
+Position: Right Wing
+Performance Metrics:
+- Goals: 19
+- Assists: 12
+- Expected Goals (xG): 18.2
+- Goals per 90: 0.54
+- Shot Conversion Rate: 15.8%
+Previous Season (2021-22):
+- Goals: 23
+- Assists: 13
+- Goals per 90: 0.68
+
+Player: Lionel Messi (PSG)
+Position: Forward
+Current Season 2022-23:
+- Goals: 16
+- Assists: 16
+- Expected Goals (xG): 14.8
+- Goals per 90: 0.59
+- Shot Conversion Rate: 17.2%
+Previous Seasons:
+2021-22 (PSG):
+- Goals: 6
+- Assists: 14
+- Games: 26
+2020-21 (Barcelona):
+- Goals: 30
+- Assists: 9
+- Games: 35
+
+Player: Kevin De Bruyne (Manchester City)
+Position: Midfielder
+Performance Metrics:
+- Goals: 7
+- Assists: 16
+- Expected Assists (xA): 13.2
+- Key Passes per 90: 3.4
+- Chances Created: 106
+Previous Season (2021-22):
+- Goals: 15
+- Assists: 8
+- Key Passes per 90: 3.1 
