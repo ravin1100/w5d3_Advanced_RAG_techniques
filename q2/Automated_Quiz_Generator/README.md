@@ -18,13 +18,13 @@ An AI-powered system that allows educators to upload course material and generat
 
 ```mermaid
 graph TD
-    A[📁 Upload Document] --> B[🧠 Process & Chunk]
-    B --> C1[🔍 Dense Retrieval (Embeddings)]
-    B --> C2[📚 Sparse Retrieval (BM25)]
-    C1 --> D[🔀 Merge & Rerank Top Chunks]
+    A["📁 Upload Document"] --> B["🧠 Process & Chunk"]
+    B --> C1["🔍 Dense Retrieval (Embeddings)"]
+    B --> C2["📚 Sparse Retrieval (BM25)"]
+    C1 --> D["🔀 Merge & Rerank Top Chunks"]
     C2 --> D
-    D --> E[💡 Prompt LLM with LangChain]
-    E --> F[📝 Generated Quiz/Test/Assignment]
+    D --> E["💡 Prompt LLM with LangChain"]
+    E --> F["📝 Generated Quiz/Test/Assignment"]
 
 ```
 
