@@ -18,13 +18,31 @@ An AI-powered system that allows educators to upload course material and generat
 
 ```mermaid
 graph TD
-    A["📁 Upload Document"] --> B["🧠 Process & Chunk"]
-    B --> C1["🔍 Dense Retrieval (Embeddings)"]
-    B --> C2["📚 Sparse Retrieval (BM25)"]
-    C1 --> D["🔀 Merge & Rerank Top Chunks"]
-    C2 --> D
-    D --> E["💡 Prompt LLM with LangChain"]
-    E --> F["📝 Generated Quiz/Test/Assignment"]
+    A["📁 Upload Document (PDF/DOCX/TXT via Streamlit)"] --> B["🔄 Send to FastAPI Backend (/upload)"]
+    B --> C["📃 Extract Raw Text from File"]
+    C --> D["✂️ Dynamically Chunk Text into Passages"]
+    D --> E1["🔗 Generate Dense Embeddings (SentenceTransformer)"]
+    D --> E2["🔎 Index Chunks for BM25 (Sparse Tokens)"]
+
+    E1 --> F1["📦 Store Embeddings in ChromaDB"]
+    E2 --> F2["📚 Store BM25 Corpus in Memory"]
+
+    subgraph "🧠 Retrieval Pipeline"
+        G1["🔍 Dense Retrieval via ChromaDB"]
+        G2["📖 Sparse Retrieval via BM25"]
+        G1 --> H["🧮 Merge Results & Deduplicate"]
+        G2 --> H
+        H --> I["📊 (Optional) Rerank with Cross-Encoder"]
+    end
+
+    subgraph "💬 LLM Generation via LangChain"
+        I --> J["📝 Build Prompt using Retrieved Context"]
+        J --> K["🤖 Invoke LLM (e.g., OpenAI, HF, Ollama)"]
+        K --> L["🧾 Generate Quiz / Assignment / Test"]
+    end
+
+    L --> M["📤 Return Output to Streamlit Frontend"]
+    M --> N["📄 Display Questions with Answers & Explanations"]
 
 ```
 
