@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Environment variables
+.env
+
+# Uploaded and processed data
+data/uploaded_docs/
+data/chroma_db/
+data/processed_chunks/
+
+# Model checkpoints (optional if using local Hugging Face models)
+models/
+
+# Streamlit cache
+.streamlit/
+
+# OS or IDE files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs
+*.log

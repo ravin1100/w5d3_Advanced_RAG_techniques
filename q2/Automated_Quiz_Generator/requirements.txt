@@ -1,0 +1,26 @@
+# Core frameworks
+fastapi
+uvicorn
+streamlit
+
+# Retrieval & LLM
+langchain
+langchain-huggingface
+langchain-community
+langchain-openai
+langchain-chroma
+openai
+chromadb
+sentence-transformers
+transformers
+torch
+rank_bm25
+python-multipart
+
+# File parsing
+pypdf
+python-docx
+
+# Utilities
+tqdm
+python-dotenv
