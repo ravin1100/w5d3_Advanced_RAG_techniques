@@ -51,15 +51,12 @@ graph TD
 
 Here’s what the app looks like in action:
 
----
-
 ### 📤 Upload Section
 
 Upload educational documents (`.pdf`, `.docx`, `.txt`)
 
 ![Upload Section](./UI-Snapshots/upload_section.png)
 
----
 
 ### 🧠 Generation Form
 
@@ -67,7 +64,6 @@ Select question type, difficulty, number of questions, and topic
 
 ![Generation Form](./UI-Snapshots/generation_form.png)
 
----
 
 ### 📝 Output Viewer
 
@@ -105,7 +101,6 @@ Automated_Quiz_Generator/
 
 This project combines modern NLP tools, vector databases, and LLM orchestration frameworks to build a hybrid RAG-based quiz/assignment generator.
 
----
 
 ## ⚙️ Technologies Used
 
@@ -121,13 +116,10 @@ This project combines modern NLP tools, vector databases, and LLM orchestration 
 | 📃 DOCX Support     | [python-docx]() - Extract text from `.docx` files |
 | 🚀 Deployment       | [Uvicorn]() - ASGI server to run FastAPI |
 
----
 
 ## 🚀 How to Run This Application
 
 Follow these steps to get the backend and frontend running locally.
-
----
 
 ### ✅ 1. Clone the Repository
 
