@@ -97,12 +97,10 @@ Automated_Quiz_Generator/
 
 ```
 
-# 🧠 Tech Stack
+## 🧠 Tech Stack
 
 This project combines modern NLP tools, vector databases, and LLM orchestration frameworks to build a hybrid RAG-based quiz/assignment generator.
 
-
-## ⚙️ Technologies Used
 
 | **Area**           | **Tech**                              |
 |--------------------|----------------------------------------|
